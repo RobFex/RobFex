@@ -37,7 +37,7 @@
 <br/>  
 
 
-## Connect with me  
+## My Social Medias  
 <div align="center">
 <a href="https://github.com/https://github.com/RobFex" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -54,13 +54,13 @@
 <br/>  
 
 
-## Github Stats  
+## Programming Language Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobFex&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
 
-## Visitor Counter  
+## Who Watched It
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=RobFex&&style=flat-square" align="center" />
 </div>  
